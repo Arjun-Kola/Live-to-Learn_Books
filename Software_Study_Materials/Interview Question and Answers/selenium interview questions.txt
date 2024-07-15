@@ -1,0 +1,82 @@
+1.Explain ur roles and responsibilities
+
+2.Explain Automation Life Cycle
+
+3.Which Framework U have Used?
+
+4.Explain Ur Framework
+
+5.What are the things u stored in PageFactory ? Why ?
+
+6.Explain TestNG
+
+7.What are the annotations U have Used ?
+
+8.What is Constructor ?
+
+9.Where u have used constructor in Selenium?
+
+10.Which model u have followed in ur company?
+
+11.How do you handle dynamics objects in a webpage?
+
+12.How do you handle untrusted SSL certificate in Webdriver?
+
+13.What is the difference between beforemethod and beforetest?
+
+14.How to verify a particular image and its size in a webpage?(Webpage has got many images out of which you have select particular one)
+
+15.What is the use of DesiredCapabilities in Selenium WebDriver?
+
+16.How do you know the Remote m/c details. Like OS, browsers details.
+
+1.How much u rate u r self in Java out of 5 and in selenium out of 5
+2. Write a program or algorithm to swipe 2 numbers without using 3 rd variable.
+3. Write code to reverse interger 1234.
+4. Write code to calculate the length of string "how are you"
+5. What different type of locators are present in selenium.
+6. How to run testcases via Jenkins
+7. what is reflection in Java.
+8. What is collection.
+9. What is abstract class and abstract methods.
+10. What is static variable and static methods.
+11. What you have done to improve the performance of selenium framework.
+
+ Selenium interview questions 
+Accenture nterview questionswill help you to clear your selenium interview
+
+1. What is the difference between list and set?
+2. How will you switch to other window?
+3. What is the return type of driver.findelement/driver.getwindowhandles()?
+4. What is the difference between Private and Protected? 
+5. How will you achieve dynamic polymorphism?
+6. What is inheritance and encapsulation? 
+7. Can you override static methods?
+8. Can main method be overloaded?
+9. What is Singleton?
+10. What is collections in Java?
+11. What is nested class?
+12. How will you call a protected method in a nested class?
+13. In a web page, how will you ensure that page has been loaded completely?
+14. What is the difference between build and perform method in Actions Class?
+15. What are different annotations in TestNG?
+16. What is the difference between before method and before test?
+17. How will you display the character count in a string "Steve Jobs" by ignoring space on between? 
+18. What is a constructor and when will you use this and super in a constructor?
+19. If you want to call a constructor from
+ parent class, what will you do?
+20. How will you run your tests using Data Driven Framework?
+21. What are static variables and methods?
+22. How will you handle Alerts in selenium?
+23. How will you handle a file upload window using Selenium?
+24. Can I define one class into another class?
+25. What are different types of modifiers present in Java?
+26. How will you make a build using Jenkins?
+27. How will you install ReportNG in your project?
+28. How will you control data using XML?
+29. How will you display a value of a particular cell in a web table?
+30. How will you handle dynamic elements using XPath?
+
+
+R4492B9EDF1D6
+P84F29F4A37A43
